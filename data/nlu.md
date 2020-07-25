@@ -157,6 +157,8 @@
 - In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
 - In [Lübeck](institution_location)
 - [Wedel](institution_location)[Wedel](institution_category)
+- [Flensburg](institution_location)
+- [Wedel](institution_location)
 
 ## intent:inform_institution_category
 - Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
@@ -217,7 +219,6 @@
 - Wäre nicht schlecht wenn es [Familienfreundlich](institution_tag) wäre.
 - Wäre nicht schlecht wenn es [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} wäre.
 - [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
-- [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
 
 ## intent:inform_offer
 - Ja, ich möchte einen [Tipp](offer).
@@ -232,7 +233,6 @@
 
 ## intent:inform_institution_name
 - [Bunker-D](institution_name)
-
 
 ## intent:greet
 - hey
@@ -376,6 +376,7 @@
 
 ## synonym:Draußen
 - Sonnenschein
+- draußen
 
 ## synonym:Familienfreundlich
 - Kinder
@@ -383,7 +384,6 @@
 - Kindern
 - Familie
 - familienfreundliches
-- familienfreundlich 
 
 ## synonym:Informationen
 - Infos
@@ -406,7 +406,6 @@
 - Ausstellung
 - Museen
 - Ausstellungen
-- Museum 
 
 ## synonym:Neustadt/Holstein
 - Neustadt
