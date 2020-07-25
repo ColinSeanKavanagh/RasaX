@@ -1,0 +1,713 @@
+## intent:inform_institution_location
+- In [Ratzeburg](institution_location).
+- In [Bad Segeberg](institution_location).
+- In [Lutterbek](institution_location).
+- In [Lübeck-Travemünde](institution_location).
+- In [Sylt/Keitum](institution_location).
+- In [Nebel/Amrum](institution_location).
+- In [Schwarzenbek](institution_location).
+- In [Kappeln/Schlei](institution_location).
+- In [Kiel](institution_location).
+- In [Kisdorf](institution_location).
+- In [Albersdorf](institution_location).
+- In [Warder](institution_location).
+- In [Glücksburg](institution_location).
+- In [Hohenlockstedt](institution_location).
+- In [Lindewitt](institution_location).
+- In [Pinneberg (Thesdorf)](institution_location).
+- In [Schleswig](institution_location).
+- In [Lübeck](institution_location).
+- In [Heide](institution_location).
+- In [Burg/Dithmarschen](institution_location).
+- In [Eckernförde](institution_location).
+- In [Aukrug-Bünzen](institution_location).
+- In [Glückstadt](institution_location).
+- In [Meldorf](institution_location).
+- In [Elmshorn](institution_location).
+- In [Schönwalde am Bungsberg](institution_location).
+- In [Brodersby](institution_location).
+- In [Grube/Holstein](institution_location).
+- In [Hohn](institution_location).
+- In [Schacht-Audorf](institution_location).
+- In [Sehestedt](institution_location).
+- In [Ulsnis](institution_location).
+- In [Wyk/Föhr](institution_location).
+- In [Schwabstedt](institution_location).
+- In [Friedrichstadt](institution_location).
+- In [Büdelsdorf](institution_location).
+- In [Lütjenburg](institution_location).
+- In [Brunsbüttel](institution_location).
+- In [Lauenburg/Elbe](institution_location).
+- In [Rendsburg](institution_location).
+- In [Daldorf](institution_location).
+- In [List](institution_location).
+- In [Wedel/Holstein](institution_location).
+- In [Burg auf Fehmarn](institution_location).
+- In [Mölln](institution_location).
+- In [Eutin](institution_location).
+- In [Norderstedt](institution_location).
+- In [Heikendorf](institution_location).
+- In [Flensburg](institution_location).
+- In [Wedel](institution_location).
+- In [Handewitt](institution_location).
+- In [Molfsee](institution_location).
+- In [St. Michaelisdonn](institution_location).
+- In [Hallig Langeneß](institution_location).
+- In [Niebüll](institution_location).
+- In [Ahrensburg](institution_location).
+- In [Trittau](institution_location).
+- In [Burg/Fehmarn](institution_location).
+- In [Ahrensbök](institution_location).
+- In [Geesthacht](institution_location).
+- In [Kiel-Schilksee](institution_location).
+- In [Cismar](institution_location).
+- In [Tetenbüll](institution_location).
+- In [Wesselburen](institution_location).
+- In [Wahlstedt](institution_location).
+- In [Gettorf](institution_location).
+- In [Bad Oldesloe](institution_location).
+- In [Hanerau-Hademarschen](institution_location).
+- In [Seestermühe](institution_location).
+- In [Heiligenhafen](institution_location).
+- In [Hohenwestedt](institution_location).
+- In [Lägerdorf](institution_location).
+- In [Marne](institution_location).
+- In [Nübbel](institution_location).
+- In [Preetz](institution_location).
+- In [Reinfeld](institution_location).
+- In [Wanderup](institution_location).
+- In [Neumünster](institution_location).
+- In [Haselau](institution_location).
+- In [Tönning](institution_location).
+- In [Idstedt](institution_location).
+- In [Malente](institution_location).
+- In [Lübeck-Herrenwyk](institution_location).
+- In [Harrislee OT Kupfermühle](institution_location).
+- In [Pellworm](institution_location).
+- In [Ellerau](institution_location).
+- In [Schönberg/Probstei](institution_location).
+- In [Grömitz](institution_location).
+- In [St.Peter-Ording, OT Bad](institution_location).
+- In [Bargteheide](institution_location).
+- In [Grömitz/Cismar](institution_location).
+- In [Hallig Hooge](institution_location).
+- In [Itzehoe](institution_location).
+- In [Krokau](institution_location).
+- In [Holzbunge](institution_location).
+- In [Aabenraa](institution_location).
+- In [Tønder](institution_location).
+- In [Ladelund](institution_location).
+- In [Nützen](institution_location).
+- In [Schwesing](institution_location).
+- In [Langballig](institution_location).
+- In [Erfde/ OT Bargen](institution_location).
+- In [Pinneberg](institution_location).
+- In [Aumühle](institution_location).
+- In [Laboe](institution_location).
+- In [Hattstedt](institution_location).
+- In [Lütjensee](institution_location).
+- In [Munkbrarup](institution_location).
+- In [Lemkenhafen/Fehmarn](institution_location).
+- In [Dannewerk](institution_location).
+- In [Büsum](institution_location).
+- In [Bordesholm](institution_location).
+- In [Barmstedt](institution_location).
+- In [St. Peter-Ording](institution_location).
+- In [Plön](institution_location).
+- In [Scharbeutz Pönitz](institution_location).
+- In [Uetersen](institution_location).
+- In [Glinde](institution_location).
+- In [Helgoland](institution_location).
+- In [Kellinghusen](institution_location).
+- In [Alkersum/Föhr](institution_location).
+- In [Nortorf](institution_location).
+- In [Wendtorf](institution_location).
+- In [Lensahn](institution_location).
+- In [Lunden](institution_location).
+- In [Wilster](institution_location).
+- In [Kampen/Keitum](institution_location).
+- In [Norddorf/Amrum](institution_location).
+- In [Bredstedt](institution_location).
+- In [Borgstedt](institution_location).
+- In [Neukirchen](institution_location).
+- In [Husum](institution_location).
+- In [Oldenburg in Holstein](institution_location).
+- In [Friedrichsruh](institution_location).
+- In [Holzdorf](institution_location).
+- In [Sörup OT Winderatt](institution_location).
+- In [Büchen](institution_location).
+- In [Witzwort](institution_location).
+- In [Satrup](institution_location).
+- In [Reinbek](institution_location).
+- In [Jevenstedt](institution_location).
+- In [Langwedel](institution_location).
+- In [Hollingstedt](institution_location).
+- In [Timmendorfer Strand](institution_location).
+- In [Friedrichskoog](institution_location).
+- In [Hoisdorf](institution_location).
+- In [Garding](institution_location).
+- In [Brügge](institution_location).
+- In [Tornesch-Esingen](institution_location).
+- In [Friedrich-Wilhelm-Lübke-Koog](institution_location).
+- In [Busdorf](institution_location).
+- In [Großenaspe](institution_location).
+- In [Neustadt/Holstein](institution_location).
+- In [Lütau](institution_location).
+- In [Kiel](institution_location)
+- In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
+
+## intent:inform_institution_category
+- Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
+- Ich möchte etwas mit [Musik](institution_category).
+- Ich [suche](offer) eine Institution die [Draußen](institution_category) ist.
+- Wir würden gerne einen [Film](institution_category) schauen.
+- Ich [suche](offer) etwas mit [Literatur](institution_category).
+- Wie wäre es mit etwas [literarisches](institution_category).
+- Vielleicht etwas wo man einen [Film](institution_category) schauen kann?
+- Vielleicht wo wir den [Sonnenschein](institution_category) genießen können.
+- Wie wäre es mit einem [Theater](institution_category).
+- Ich [suche](offer) eine [Oper](institution_category).
+- Ich [suche](offer) ein [Museum](institution_category).
+- Was gibt es so an [Museen](institution_category)?
+- Wo finde ich eine [Ausstellung](institution_category)?
+- Was gibt es so an [Ausstellungen](institution_category)?
+- Ich fände es gut wenn es ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} wäre
+- Sie soll vielleicht mit etwas [literarischem]{"entity": "institution_category", "value": "Literatur"} zu tun haben
+
+## intent:inform_institution_tag
+- [Kostenfrei](institution_tag)
+- [kostenfreies](institution_tag)
+- [Parkplatz](institution_tag)
+- [parken](institution_tag)
+- Mit dem [Auto](institution_tag) hinkommen.
+- [Regelmäßige Führungen](institution_tag)
+- [Führung](institution_tag)
+- [Angebot für Sehbehinderte](institution_tag)
+- [Angebot für Hörbehinderte](institution_tag)
+- [Angebot für geistig Behinderte](institution_tag)
+- [Barrierefrei zugänglich](institution_tag)
+- [Barrierefrei](institution_tag)
+- [Handicap](institution_tag)
+- Sollte auch zugänglich für [Menschen mit Behinderungen](institution_tag) sein.
+- [Behindertenparkplatz](institution_tag)
+- [Shop](institution_tag)
+- [Gastronomie](institution_tag)
+- [Behinderten-WC](institution_tag)
+- [Familienfreundlich](institution_tag)
+- Für [Kinder](institution_tag)
+- Wo man mit [Kindern](institution_tag) hingehen kann.
+- [familienfreundliches](institution_tag)
+- [Familie](institution_tag)
+- [Angebot für Schulklassen](institution_tag)
+- [Schietwetter](institution_tag)
+- [Open Air](institution_tag)
+- [MuseumsCard](institution_tag)
+- [Angebot auf Englisch](institution_tag)
+- [Angebot auf Dänisch](institution_tag)
+- Wäre nicht schlecht wenn es [Familienfreundlich](institution_tag) wäre.
+- Wäre nicht schlecht wenn es [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} wäre.
+
+## intent:inform_offer
+- Ja, ich möchte einen [Tipp](offer).
+- Wenn du mir einen [Tipp](offer) geben könntest, wäre das fantastisch
+- Ich suche eine Institution.
+- Wir suchen etwas.
+- Wo finde ich etwas, wo ich hingehen kann?
+- Ja gib mir noch einen [Tipp](offer)
+- Ich möchte [Informationen](offer) zu einer speziellen Institutionen.
+- Ich will [Infos](offer) über eine Institution.
+- Ich möchte gerne wissen, wo ich mit meiner [Familie](institution_category) hingehen kann.
+
+## intent:inform_institution_name
+- [A. Paul Weber-Museum](institution_name)
+- [Alt-Segeberger Bürgerhaus](institution_name)
+- [Alte Lutterbeker Schmiede](institution_name)
+- [Alter Leuchtturm Travemünde](institution_name)
+- [Altfriesisches Haus seit 1640](institution_name)
+- [Amrumer Museum und Windmühle](institution_name)
+- [Amtsrichterhaus A.R.S. Schwarzenbek](institution_name)
+- [Angelner Dampfeisenbahn](institution_name)
+- [Aquarium GEOMAR](institution_name)
+- [Arbeitskreis Kultur im Träger-Verein Dorfhaus Kisdorf e.V.](institution_name)
+- [Archäologisch-Ökologisches Zentrum Albersdorf, Steinzeitdorf](institution_name)
+- [Arche Warder - Zentrum für alte Haus- und Nutztierrassen e.V.](institution_name)
+- [artefact Power-Park](institution_name)
+- [Arthur Boskamp-Stiftung M.1 Hohenlockstedt](institution_name)
+- [Bäckerei und Dorfmuseum](institution_name)
+- [Baumschulmuseum](institution_name)
+- [Bibelzentrum Schleswig](institution_name)
+- [Botanischer Garten der Christian-Albrechts-Universität zu Kiel](institution_name)
+- [Brahms-Institut an der Musikhochschule Lübeck](institution_name)
+- [Brahmshaus](institution_name)
+- [Brunswiker Pavillon](institution_name)
+- [Buddenbrookhaus: Heinrich-und-Thomas-Mann-Zentrum](institution_name)
+- [Bunker-D](institution_name)
+- [Burger Waldmuseum](institution_name)
+- [Computermuseum der Fachhochschule Kiel](institution_name)
+- [Das Haus und KoKi](institution_name)
+- [Dat ole Hus](institution_name)
+- [Detlefsen-Museum im Brockdorff-Palais](institution_name)
+- [die LÜBECKER MUSEEN Kunsthalle St. Annen](institution_name)
+- [die LÜBECKER MUSEEN Museum Behnhaus Drägerhaus](institution_name)
+- [die LÜBECKER MUSEEN St. Annen-Museum](institution_name)
+- [die LÜBECKER MUSEEN St. Katharinen-Kirche - Museumskirche](institution_name)
+- [Die Oase - Musik und Kultur in Segeberg e.V.](institution_name)
+- [Die Pumpe e.V.](institution_name)
+- [Dithmarscher Landesmuseum](institution_name)
+- [DITMARSIUM,  Burger Apotheken-, Gewerbe- & Schifffahrtsmuseum](institution_name)
+- [Dittchenbühne](institution_name)
+- [Dorf- und Schulmuseum Schönwalde am Bungsberg](institution_name)
+- [Dorfmuseum Brodersby](institution_name)
+- [Dorfmuseum Grube](institution_name)
+- [Dorfmuseum Hohn](institution_name)
+- [Dorfmuseum Schacht-Audorf](institution_name)
+- [Dorfmuseum Sehestedt - Haus der Geschichte](institution_name)
+- [Dorfmuseum Ulsnis](institution_name)
+- [Dr. Carl-Haeberlin Friesen-Museum](institution_name)
+- [Dr. Hans Meyer-Heimatmuseum](institution_name)
+- [Ehemalige Synagoge Friedrichstadt](institution_name)
+- [Eisenkunstguss Museum Büdelsdorf](institution_name)
+- [Eiszeitmuseum](institution_name)
+- [Elbeforum Brunsbüttel](institution_name)
+- [Elbschifffahrtsmuseum](institution_name)
+- [Elektro-Museum Rendsburg](institution_name)
+- [ErlebnisWald Trappenkamp](institution_name)
+- [Erlebniszentrum Naturgewalten Sylt](institution_name)
+- [Ernst Barlach Museum Ratzeburg](institution_name)
+- [Ernst Barlach Museum Wedel](institution_name)
+- [Ernst-Ludwig-Kirchner-Dokumentation](institution_name)
+- [Eulenspiegel Museum](institution_name)
+- [Europäisches Hansemuseum](institution_name)
+- [Eutiner Festspiele](institution_name)
+- [Feuerwehrmuseum Schleswig-Holstein](institution_name)
+- [Fischereimuseum Möltenort](institution_name)
+- [Flandernbunker - Mahnmal Kilian e.V.](institution_name)
+- [Flensburger Schifffahrtsmuseum](institution_name)
+- [Förderkreis Reepschlägerhaus e.V.](institution_name)
+- [Förderverein Dorfmuseum Handewitt e.V.](institution_name)
+- [Freilichtmuseum Molfsee - Landesmuseum für Volkskunde](institution_name)
+- [Freimaurermuseum](institution_name)
+- [Friesenstube](institution_name)
+- [Friesisches Museum](institution_name)
+- [Galerie im Marstall Ahrensburg](institution_name)
+- [Galerie in der Wassermühle Trittau](institution_name)
+- [Galileo Wissenswelt](institution_name)
+- [Gedenkstätte Ahrensbök](institution_name)
+- [Gedenkstätte Lübecker Märtyrer](institution_name)
+- [GeesthachtMuseum!](institution_name)
+- [Geologisches und Mineralogisches Museum der Universität Kiel](institution_name)
+- [Gottorfer Globus & Barockgarten](institution_name)
+- [Günter Grass-Haus: Forum für Literatur und Bildende Kunst](institution_name)
+- [Hans Kock Stiftung Gut Seekamp](institution_name)
+- [Haus der Natur Ahrensburg](institution_name)
+- [Haus der Natur Cismar](institution_name)
+- [Haus Peters](institution_name)
+- [Hebbel-Museum Wesselburen](institution_name)
+- [Heiligen-Geist-Hospital](institution_name)
+- [Heimat- und Handwerksmuseum Wahlstedt: in der Volkshochschule Wahlstedt e.V.](institution_name)
+- [Heimatmuseum an der Mühle](institution_name)
+- [Heimatmuseum Bad Oldesloe](institution_name)
+- [Heimatmuseum Brunsbüttel](institution_name)
+- [Heimatmuseum der Gemeinde Hanerau-Hademarschen](institution_name)
+- [Heimatmuseum Göpelschauer Seestermühe](institution_name)
+- [Heimatmuseum Heiligenhafen](institution_name)
+- [Heimatmuseum Hohenwestedt](institution_name)
+- [Heimatmuseum Lägerdorf](institution_name)
+- [Heimatmuseum Marner Skatclub von 1873](institution_name)
+- [Heimatmuseum Mühle Anna](institution_name)
+- [Heimatmuseum Peter-Wiepert](institution_name)
+- [Heimatmuseum Preetz](institution_name)
+- [Heimatmuseum Reinfeld](institution_name)
+- [Heimatmuseum Wanderup](institution_name)
+- [Herbert-Gerisch-Stiftung](institution_name)
+- [Historische Sammlung Haselau](institution_name)
+- [Historisches Packhaus am Hafen](institution_name)
+- [Historisches Sägewerk an der Mühle Amanda](institution_name)
+- [Holm-Museum](institution_name)
+- [Idstedt-Gedenkhalle](institution_name)
+- [Immenhof-Museum](institution_name)
+- [Impulswerk e.V. Alte Mu](institution_name)
+- [Industriemuseum Elmshorn](institution_name)
+- [Industriemuseum Geschichtswerkstatt Herrenwyk](institution_name)
+- [Industriemuseum Howaldtsche Metallgießerei](institution_name)
+- [Industriemuseum Kupfermühle](institution_name)
+- [Inselmuseum Pellworm](institution_name)
+- [Jüdisches Museum Rendsburg](institution_name)
+- [Kanalmuseum ATRIUM](institution_name)
+- [Kapitän-Tadsen-Museum](institution_name)
+- [Karl-Rautenberg-Museum](institution_name)
+- [Käte-Gerdsen-Haus](institution_name)
+- [KDW — Kulturverein Dada am Waschpohl e. V.](institution_name)
+- [Kieler Stadt- und Schifffahrtsmuseum - Schifffahrtsmuseum Fischhalle](institution_name)
+- [Kieler Stadt- und Schifffahrtsmuseum - Stadtmuseum Warleberger Hof](institution_name)
+- [Kindheitsmuseum Schönberg](institution_name)
+- [Kino Grömitz](institution_name)
+- [Kino Klub Pellworm](institution_name)
+- [Kino Nordlicht](institution_name)
+- [Kleines Theater Bargteheide e.V.](institution_name)
+- [Kloster Cismar](institution_name)
+- [Kohlosseum Wesselburen](institution_name)
+- [Königspesel](institution_name)
+- [Kreismuseum Herzogtum Lauenburg](institution_name)
+- [Kreismuseum Prinzeßhof](institution_name)
+- [Krokauer Windmühle](institution_name)
+- [Krüger's Whisky Museum](institution_name)
+- [Kühlhaus](institution_name)
+- [Kultur- und Bildungszentrum](institution_name)
+- [Kulturgeschichte Apenrade](institution_name)
+- [KulturHaus REMISE](institution_name)
+- [Kulturhof Itzehoe](institution_name)
+- [Kunsthalle zu Kiel](institution_name)
+- [Kunsthaus Alter ZOB](institution_name)
+- [Kunsthaus Kappeln](institution_name)
+- [Künstlerhaus Lauenburg](institution_name)
+- [Künstlermuseum Heikendorf - Kieler Förde](institution_name)
+- [Kunstmuseum Tønder](institution_name)
+- [Kunstverein Elmshorn](institution_name)
+- [Kunstwerk Carlshütte / NordArt](institution_name)
+- [KZ Gedenk- und Begegnungsstätte Ladelund der Kirchengemeinde St. Petri Ladelund](institution_name)
+- [KZ-Gedenkstätte Kaltenkirchen](institution_name)
+- [KZ-Gedenkstätte Schwesing](institution_name)
+- [Landschaftsmuseum Angeln - Unewatt](institution_name)
+- [Landschaftsmuseum Stapelholm im Stapelholm-Huus](institution_name)
+- [Literaturhaus Schleswig-Holstein](institution_name)
+- [Little Opera](institution_name)
+- [Lokschuppen Aumühle, Eisenbahnmuseum](institution_name)
+- [Lübecker Rathaus](institution_name)
+- [Marine-Ehrenmal und Technisches Museum U 995](institution_name)
+- [Marzipanmuseum](institution_name)
+- [Maschinenmuseum Kiel-Wik](institution_name)
+- [Max-Planck-Ausstellung](institution_name)
+- [Mediendom der Fachhochschule Kiel](institution_name)
+- [Medizin- und Pharmaziehistorische Sammlung der Christian-Albrechts-Universität](institution_name)
+- [Meereszentrum Tropisches Aquarium Fehmarn](institution_name)
+- [Menno-Simons-Gedächtnisstätte](institution_name)
+- [Metro-Kino](institution_name)
+- [Mikkelberg - Nordisk center for kunst og cricket](institution_name)
+- [Mittelalter-Museum Turmhügelburg](institution_name)
+- [Möllner Museen, Historisches Rathaus](institution_name)
+- [Momme-Nissen-Haus](institution_name)
+- [Motoren-Museum Schleswig-Holstein](institution_name)
+- [Mühle Hoffnung](institution_name)
+- [Mühlenmuseum Jachen Flünk](institution_name)
+- [Multimar Wattforum Tönning](institution_name)
+- [Museen im Kulturzentrum](institution_name)
+- [Museum Alte Münze](institution_name)
+- [Museum am Danewerk](institution_name)
+- [Museum am Meer am Büsumer Hafen](institution_name)
+- [Museum am Wasserturm Hohenlockstedt](institution_name)
+- [Museum auf der Klosterinsel Bordesholm - Heimatsammlung und Gewölbekeller](institution_name)
+- [Museum Bargteheide](institution_name)
+- [Museum der Grafschaft Rantzau](institution_name)
+- [Museum der Landschaft Eiderstedt](institution_name)
+- [Museum des Kreises Plön: mit norddeutscher Glassammlung](institution_name)
+- [Museum Eckernförde](institution_name)
+- [Museum für Archäologie Schloss Gottorf](institution_name)
+- [Museum für Archäologie und Ökologie Dithmarschen](institution_name)
+- [Museum für Kunst und Kulturgeschichte Schloss Gottorf](institution_name)
+- [Museum für Natur und Umwelt](institution_name)
+- [Museum für Regionalgeschichte der Gemeinde Scharbeutz und Umgebung](institution_name)
+- [Museum für Stadt- und Heimatgeschichte Uetersen](institution_name)
+- [Museum Glinder Kupfermühle](institution_name)
+- [Museum HAUS HANSESTADT DANZIG](institution_name)
+- [Museum Helgoland](institution_name)
+- [Museum Holstentor](institution_name)
+- [Museum Kellinghusen](institution_name)
+- [Museum Kunst der Westküste](institution_name)
+- [Museum Langes Tannen](institution_name)
+- [Museum Nortorf](institution_name)
+- [Museum Tuch + Technik](institution_name)
+- [Museumsberg Flensburg](institution_name)
+- [Museumsbrücke Seegarten](institution_name)
+- [Museumshafen Flensburg e.V.](institution_name)
+- [Museumshafen Probstei](institution_name)
+- [Museumshof Lensahn](institution_name)
+- [Museumsinsel Lüttenheid mit Klaus-Groth-Museum und Heider Heimatmuseum](institution_name)
+- [Museumswerft Flensburg g-GmbH](institution_name)
+- [NaTour-Centrum und Heimatmuseum des Kirchspiels Lunden](institution_name)
+- [Naturkundemuseum](institution_name)
+- [Naturkundliches Museum Wilster](institution_name)
+- [Naturpfad Vogelkoje Kampen](institution_name)
+- [Naturwissenschaftliches Museum](institution_name)
+- [Naturzentrum Amrum](institution_name)
+- [Naturzentrum Mittleres Nordfriesland e.V.](institution_name)
+- [Niederdeutsche Bühne Ahrensburg](institution_name)
+- [Niederdeutsche Bühne Flensburg](institution_name)
+- [Niederdeutsche Bühne Kiel](institution_name)
+- [Niederdeutsche Bühne Preetz](institution_name)
+- [Niederdeutsche Bühne Rendsburg](institution_name)
+- [Nolde Stiftung Seebüll](institution_name)
+- [Nordfriesland Museum. Nissenhaus Husum](institution_name)
+- [Nordfriisk Instituut](institution_name)
+- [Nordkolleg Rendsburg](institution_name)
+- [Oldenburger Wallmuseum](institution_name)
+- [Öömrang-Hüs, Amrumer Archiv & Museum](institution_name)
+- [Ostdeutsches Heimatmuseum](institution_name)
+- [Ostenfelder Bauernhaus](institution_name)
+- [Ostholstein-Museum Eutin](institution_name)
+- [Ostsee Info-Center](institution_name)
+- [Otto-Flath-Kunsthalle und Villa Flath](institution_name)
+- [Otto-von-Bismarck-Stiftung](institution_name)
+- [Overbeck-Gesellschaft - Kunstverein Lübeck](institution_name)
+- [Palais für aktuelle Kunst](institution_name)
+- [Phänomenta Flensburg](institution_name)
+- [Phonomuseum 'Alte Schule'](institution_name)
+- [Pinneberg Museum](institution_name)
+- [Planetarium Hochschule Flensburg](institution_name)
+- [Pomarium-Anglicum Obstmuseum](institution_name)
+- [Poppenspäler Museum im Schloss vor Husum](institution_name)
+- [Priesterkate Büchen](institution_name)
+- [Probstei Museum Schönberg](institution_name)
+- [Rendsburger Schifffahrtsarchiv](institution_name)
+- [Richard-Haizmann-Museum](institution_name)
+- [Robbe & Berking Yachting Heritage Centre](institution_name)
+- [Roter Haubarg](institution_name)
+- [Salondampfer Alexandra](institution_name)
+- [Satruphuus](institution_name)
+- [Schifffahrtsmuseum Nordfriesland](institution_name)
+- [Schleswig-Holsteinische Landesbibliothek - Landesgeschichtliche Sammlung](institution_name)
+- [Schleswig-Holsteinisches Landestheater im Slesvighus](institution_name)
+- [Schleswig-Holsteinisches Landwirtschaftsmuseum](institution_name)
+- [Schleswiger Speeldeel](institution_name)
+- [Schleusenmuseum Holtenau, Maritimes Viertel](institution_name)
+- [Schloss Reinbek](institution_name)
+- [Schloss vor Husum](institution_name)
+- [Schmiedemuseum](institution_name)
+- [Schoolkat Langwedel](institution_name)
+- [Schulhausmuseum](institution_name)
+- [Schutzstation Wattenmeer](institution_name)
+- [Sea Life Timmendorfer Strand](institution_name)
+- [Seehundstation Friedrichskoog e.V.](institution_name)
+- [Skulpturenpark Nortorf](institution_name)
+- [Sparkassenstiftung Schleswig-Holstein](institution_name)
+- [Speicher Husum](institution_name)
+- [St. Petri zu Lübeck](institution_name)
+- [Stadtarchiv Rendsburg](institution_name)
+- [Stadtarchiv Wedel](institution_name)
+- [Stadtgalerie im Elbeforum Brunsbüttel](institution_name)
+- [Stadtgalerie Kiel](institution_name)
+- [Stadtmuseum Norderstedt](institution_name)
+- [Stadtmuseum Schleswig](institution_name)
+- [Stadtmuseum Wedel](institution_name)
+- [statt-Theater Neumünster](institution_name)
+- [Stiftung Landdrostei](institution_name)
+- [Stiftung Schloss Ahrensburg](institution_name)
+- [Stiftung Schloss Eutin](institution_name)
+- [Stiftung Schloss Glücksburg](institution_name)
+- [Stormarnsches Dorfmuseum](institution_name)
+- [Studio Filmtheater](institution_name)
+- [Sylt Museum](institution_name)
+- [Theater am Tremser Teich](institution_name)
+- [Theater Combinale](institution_name)
+- [Theater in der Stadthalle](institution_name)
+- [theater itzehoe](institution_name)
+- [Theater Kiel - Opernhaus](institution_name)
+- [Theater Kiel - Schauspielhaus](institution_name)
+- [Theater Lübeck](institution_name)
+- [TheaterFigurenMuseum Lübeck](institution_name)
+- [Theaterschiff Batavia](institution_name)
+- [Theaterschiff Lübeck](institution_name)
+- [Theodor-Mommsen-Gedächtnisstätte](institution_name)
+- [Theodor-Storm-Museum](institution_name)
+- [Tischlereimuseum Friedrichstadt](institution_name)
+- [Tor zur Urzeit](institution_name)
+- [Übersee Museum - Aussenstelle Galileo Wissenswelt](institution_name)
+- [Viermastbark Passat](institution_name)
+- [Volksbad Flensburg](institution_name)
+- [Volkskundliches Museum Mölln Hof](institution_name)
+- [Weihnachtshaus](institution_name)
+- [Wenzel-Hablik-Museum](institution_name)
+- [Werner Weckwerth Museum](institution_name)
+- [Wikinger Museum Haithabu](institution_name)
+- [Wildpark Eekholt Naturerlebnisstätte](institution_name)
+- [Willy-Brandt-Haus Lübeck](institution_name)
+- [Windmühle Amanda](institution_name)
+- [zeiTTor – Museum der Stadt Neustadt in Holstein](institution_name)
+- [Zoologisches Museum der Christian-Albrechts-Universität zu Kiel](institution_name)
+- [Zugpferdemuseum e.V-](institution_name)
+
+## intent:greet
+- hey
+- hallo
+- hi
+- moin
+- Guten Abend
+- Guten Morgen
+- Heyho
+- Hi
+
+## intent:goodbye
+- Bye!
+- Tschüss!
+- Bis dann!
+- Bis spaeter!
+- Tschüssikowski!
+
+## intent:affirm
+- ja
+- exakt
+- natuerlich
+- das klingt gut
+- korrekt
+- ja bitte
+- yes
+- jup
+- jap
+- sicherlich
+- sicher
+- einverstanden
+- freilich
+- gern
+- bestimmt
+- gewiss
+- okay
+- jawohl
+- natürlich
+- auf jeden Fall
+- positiv
+- roger
+- stimmt
+- stimmt genau
+- hundertprozentig
+- genau
+- yep
+- definitiv!
+- absolut
+- durchaus
+- yup
+- Ja sicher
+- Ja bitte
+- Dankeschön
+- Vielen Dank
+- Das ist sehr nett, danke.
+- Vielen Dank Ubbo, das ist wirklich lieb.
+- Ja, danke
+- Perfekt
+- Sehr gut
+- Richtig gut
+- Unglaublich
+- Wundervoll
+- Alles gut
+
+## intent:deny
+- nein
+- niemals
+- Ich denke nicht, dass es so ist
+- Das finde ich nicht.
+- Niemals
+- Nicht wirklich.
+- egal
+- mir egal
+- abgelehnt
+- nie
+- keineswegs
+- überhaupt nicht
+- keinesfalls
+- auf gar keinen Fall
+- auf keinen Fall
+- mitnichten
+- nä
+- nee
+- nö
+- nichts da
+- von wegen
+- kommt nicht in Frage
+- ausgeschlossen
+- nicht im Geringsten
+- negativ
+- nope
+- Nein
+
+<!-- ## intent:mood_great
+- Perfekt
+- Sehr gut
+- Richtig gut
+- Unglaublich
+- Wundervoll
+- Ich fuehle mich sehr gut
+- Ich fuehle mich gut
+- Alles gut -->
+
+## intent:mood_unhappy
+- Traurig
+- Sehr traurig
+- Nicht froehlich
+- schlecht
+- sehr schlecht
+- schrecklich
+- nicht sehr gut
+- extrem schlecht
+- so traurig
+- Scheiße
+- Kacke
+- Vollidiot
+- Mist
+
+## intent:bot_challenge
+- bist du ein bot?
+- bist du ein mensch?
+- Spreche ich zu einem Bot?
+- Spreche ich zu einem Menschen?
+
+## intent:out_of_scope
+- Ich will eine Pizza bestellen.
+- Mach das Licht an!
+- Mach das Licht aus!
+- Kannst du mir etwas zu essen besorgen?
+
+## synonym:Barrierefrei zugänglich
+- Barrierefrei
+- Menschen mit Behinderungen
+- Handicap
+
+## synonym:Bühne
+- Theater
+- Oper
+
+## synonym:Draußen
+- Sonnenschein
+
+## synonym:Familienfreundlich
+- familienfreundlich
+- Kinder
+- Kindern
+- Familie
+- familienfreundliches
+
+## synonym:Informationen
+- Infos
+
+## synonym:Kiel
+- Kieler
+
+## synonym:Kostenfrei
+- kostenfreies
+
+## synonym:Literatur
+- literarischem
+- literarisches
+
+## synonym:Lübeck
+- lübeck
+
+## synonym:Museum & Ausstellung
+- Museum
+- Ausstellung
+- Museen
+- Ausstellungen
+
+## synonym:Neustadt/Holstein
+- Neustadt
+- Holstein
+
+## synonym:Parkplatz
+- parken
+- Auto
+
+## synonym:Regelmäßige Führungen
+- Führung
+- Führungen
+
+## synonym:Sylt/Keitum
+- Sylt
+- Keitum

@@ -1,0 +1,112 @@
+actions:
+- action_check_institution_attributes
+- action_get_institution
+- action_get_institution_by_name
+- utter_unsure
+- utter_anything_else
+- utter_ask_feedback
+- utter_ask_institution_category
+- utter_ask_institution_location
+- utter_ask_institution_name
+- utter_ask_institution_tag
+- utter_cheer_up
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_iamabot
+- utter_introduction
+- utter_offer_tipp
+- utter_offer_another_tipp
+- utter_ask_reset
+entities:
+- institution
+- institution_category
+- institution_location
+- institution_name
+- institution_tag
+- offer
+intents:
+- inform_institution_tag
+- inform_institution_category
+- inform_institution_location
+- inform_institution_name
+- deny
+- affirm
+- greet
+- thanks
+- inform_offer
+- goodbye
+- mood_unhappy
+- bot_challenge
+- out_of_scope
+responses:
+  utter_anything_else:
+  - text: Kann ich dir sonst noch helfen?
+  - text: Gibt es noch etwas, wo ich helfen könnte?
+  utter_unsure:
+  - text: Hmh, ich bin mir nicht ganz sicher was du meinst. Magst du das noch einmal anders formulieren?
+  - text: Okay, ich bin mir nicht ganz sicher was du meinst. Wie wäre es mit einer anderen Formulierung? Vielleicht kann ich dir so weiterhelfen? :)
+  utter_sorry:
+  - text: Ach schade, das tut mir Leid.
+  - text: Sorry, ich würde dir gerne weiterhelfen.
+  - text: Oh man, das tut mir Leid.
+  - text: Ach Mensch, das tut mir Leid.
+  - text: Entschuldige.
+  utter_ask_feedback:
+  - text: Hat dir das geholfen?
+  utter_ask_institution_category:
+  - text: Was für eine Institution soll es sein? Soll sie z.B. ein Museum sein, mit
+      Literatur zu tun haben oder einfach Draußen sein?
+  utter_ask_institution_location:
+  - text: Wo soll sich die Institution befinden?
+  utter_ask_institution_name:
+  - text: Zu welcher Institution soll ich dir Informationen liefern?
+  utter_ask_institution_tag:
+  - text: Soll die Institution ein bestimmtes Angebot haben? Du kannst z.B. sagen,
+      dass es familienfreundlich oder Barrierefrei zugänglich sein soll.
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Hier ist etwas um dich wieder aufzumuntern:'
+  utter_goodbye:
+  - text: Tschüss!
+  - text: Bye!
+  - text: Bis dann!
+  - text: Bis später!
+  - text: Tschüssikowski!
+  - text: Bis Baldrian!
+  - text: Bis Dannimanski!
+  - text: Tschö mit ö!
+  - text: Adios!
+  utter_greet:
+  - text: Moin, ich bin Ubbo! :wave
+  utter_happy:
+  - text: Sehr gut!
+  utter_iamabot:
+  - text: Ich bin ein Bot, der Methoden der künstlichen Intelligenz benutzt. Nicht mehr und auch nicht weniger.
+  utter_introduction:
+  - text: Als dein virtueller Kulturassistent kann ich dich durch die Kultur in Schleswig-Holstein
+      führen und dir Informationen über Institutionen liefern. Schnapp dir einen Tee
+      und los geht's!
+  utter_offer_tipp:
+  - text: Soll ich dir einen Kultur-Tipp geben?
+  - text: Ich könnte dir einen Tipp aus der Kultur in Schleswig-Holstein geben. :)
+  utter_offer_another_tipp:
+  - text: Soll ich dir nochmal Infos liefern?
+  - text: Soll ich nochmal nach Informationen suchen?
+  utter_ask_reset:
+  - text: Soll ich die alten Angaben, die du eben gemachst hast, zurücksetzen?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+slots:
+  institution:
+    auto_fill: false
+    type: text
+  institution_category:
+    type: text
+  institution_location:
+    type: text
+  institution_name:
+    type: text
+  institution_tag:
+    type: text

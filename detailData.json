@@ -1,0 +1,317 @@
+{
+    "header": {
+        "message": [
+            {
+                "messageType": "time",
+                "note": "Start = 0"
+            },
+            {
+                "messageType": "time",
+                "note": "Zeit nach actorNames: 0.00216"
+            },
+            {
+                "messageType": "time",
+                "note": "Zeit vor metadaten: 0.00411"
+            },
+            {
+                "messageType": "time",
+                "note": "Zeit nach bild: 0.01279"
+            }
+        ],
+        "lang": "de"
+    },
+    "Actor": {
+        "uri": "underConstruction",
+        "id": "act001536",
+        "name": [
+            {
+                "role": "preferred",
+                "label": "A. Paul Weber-Museum"
+            }
+        ],
+        "address": [
+            {
+                "type": "visitor",
+                "street": "Domhof 5",
+                "zip": "23909",
+                "place": "Ratzeburg"
+            }
+        ],
+        "classification": [
+            {
+                "type": "region",
+                "uri": "http:\/\/digicult.vocnet.org\/portal\/201.2"
+            },
+            {
+                "type": "kulturtyp",
+                "uri": "http:\/\/digicult.vocnet.org\/portal\/p0102"
+            },
+            {
+                "type": "tourismustyp",
+                "uri": "http:\/\/digicult.vocnet.org\/portal\/p0297"
+            }
+        ],
+        "communication": [
+            {
+                "id": "com0022",
+                "item": "04541\/860720"
+            },
+            {
+                "id": "com0023",
+                "item": "04541\/860710"
+            },
+            {
+                "id": "com0024",
+                "item": "kreismuseen-rz@t-online.de"
+            }
+        ],
+        "webResource": [
+            {
+                "source_id": "webpage",
+                "type": "URL",
+                "identifier": "http:\/\/www.weber-museum.de",
+                "label": "weber-museum.de"
+            }
+        ],
+        "mapping": [
+            {
+                "source_id": "id_kulturnetz",
+                "type": "localID",
+                "identifier": "149"
+            },
+            {
+                "source_id": "digiID",
+                "type": "localID",
+                "identifier": "6885135"
+            },
+            {
+                "source_id": "ISIL",
+                "type": "localID",
+                "identifier": "DE-MUS-114312"
+            }
+        ],
+        "pos": "10.775392349877 53.70168275",
+        "description": [
+            {
+                "id": "info001",
+                "noteValue": [
+                    "Ber\u00fchmt ist Webers Zeichnung \"Das Verh\u00e4ngnis\" von 1931 aus der Brosch\u00fcre von E. Niekisch \"Hitler - ein deutsches Verh\u00e4ngnis\", mit der er die drohende Katastrophe des Zweiten Weltkrieges vorhersah. Doch es gilt, auch die anderen rund 300 Handzeichnungen, Holzschnitte, \u00d6lgem\u00e4lde, vor allem aber Lithographien des satirischen Graphikers A. Paul Weber (1893-1980) zu entdecken.\nEinen Besuch lohnen die lustigen Tierbilder, die Buchillustrationen u.a. zu Reineke Fuchs, die heiteren und bissigen Bl\u00e4tter zu Kunst und Kunstbetrieb, die Schachpartien zwischen historischen Personen, die Eulenspiegelmotive, die kritischen Arbeiten, in denen Weber Mi\u00dfst\u00e4nde in Gesellschaft und Politik anprangert und Krieg und Gewalt verurteilt, ein Zyklus von Gefangenenbildern und die eindringlich warnenden Zeichnungen \u00fcber die Zerst\u00f6rung unserer Umwelt. Au\u00dferdem ist eine funktionst\u00fcchtige Lithographiewerkstatt zu besichtigen."
+                ]
+            },
+            {
+                "id": "info004",
+                "noteValue": [
+                    "von Hamburg: \u00fcber die A 1 Richtung Berlin (Abfahrt Ratzeburg), dann \u00fcber die B 207",
+                    "von L\u00fcbeck: \u00fcber die B 207",
+                    "ausreichend Parkm\u00f6glichkeiten direkt vor dem Haus"
+                ]
+            },
+            {
+                "id": "info009",
+                "noteValue": [
+                    "Videofilme \u00fcber A. Paul Weber und die Herstellung einer Lithographie k\u00f6nnen auf Wunsch gezeigt werden",
+                    "F\u00fchrungen, auch zu speziellen Themenschwerpunkten, nach Anmeldung (f\u00fcr Sch\u00fcler ab 3. Klasse)",
+                    "regelm\u00e4\u00dfig stattfindende Lithographiekurse (Teilnahmebedingungen auf Anfrage)",
+                    "regelm\u00e4\u00dfige Sonderausstellungen (Veranstaltungskalender k\u00f6nnen kostenlos angefordert werden)",
+                    "Benutzung des umfangreichen Archivs ist nach Absprache m\u00f6glich"
+                ]
+            },
+            {
+                "id": "info015",
+                "noteValue": [
+                    "kostenlose Informationsprospekte",
+                    "kostenlose Einf\u00fchrungstexte in Englisch, Franz\u00f6sisch, D\u00e4nisch und Polnisch",
+                    "kostenlose Arbeitsb\u00f6gen f\u00fcr Sch\u00fcler (f\u00fcr unterschiedliche Altersstufen)",
+                    "spezielle Museumsver\u00f6ffentlichungen zu \u00e4u\u00dferst g\u00fcnstigen Preisen (nur im Museum erh\u00e4ltlich): Faksimile-Drucke auf B\u00fctten in Originalgr\u00f6\u00dfe von Graphiken Webers - A. Paul Weber \"Bilder-Buch\" - A. Paul Weber \"Denkmappe\""
+                ]
+            },
+            {
+                "id": "info019",
+                "noteValue": [
+                    "di-so 10-13\/14-17, am 24., 25., 26. und 31. Dez. sowie am 1. Jan. geschlossen, Ostern ge\u00f6ffnet, auch am Ostermontag"
+                ]
+            },
+            {
+                "id": "info020",
+                "noteValue": [
+                    "Das Weber-Museum liegt wundersch\u00f6n auf einer Insel im Ratzeburger See, auf dem Personenschiffahrt stattfindet (Anleger nur wenige Meter vom Museum entfernt). Gleich neben dem Museum befindet sich das Kreismuseum Herzogtum Lauenburg im Lustschlo\u00df der mecklenburgischen Herz\u00f6ge (erbaut 1766) mit umfangreichen Sammlungen. Unmittelbar daneben befindet sich der mittelalterliche Dom Heinrichs des L\u00f6wen."
+                ]
+            },
+            {
+                "id": "info023",
+                "noteValue": [
+                    "Das Weber-Museum wird von der A. Paul Weber-Gesellschaft unterst\u00fctzt."
+                ]
+            },
+            {
+                "id": "info026",
+                "noteValue": [
+                    "1,50 \u20ac; erm\u00e4\u00dfigt 0,50 \u20ac"
+                ]
+            },
+            {
+                "id": "info028",
+                "noteValue": [
+                    "Kritische und satirische Graphik"
+                ]
+            },
+            {
+                "id": "info029",
+                "noteValue": [
+                    "Das Werk des satirischen Graphikers A. Paul Weber umfasst Buchillustrationen, die heiteren und bissigen Bl\u00e4tter zu Kunst und Kunstbetrieb, die Schachpartien zwischen historischen Personen, die Eulenspiegelmotive, die kritischen Arbeiten zu Gesellschaft und Politik und die eindringlich warnenden Zeichnungen \u00fcber die Zerst\u00f6rung unserer Umwelt. Funktionst\u00fcchtige Lithographiewerkstatt zu besichtigen."
+                ]
+            }
+        ],
+        "icon": [
+            {
+                "type": "general",
+                "id": "opt032"
+            },
+            {
+                "type": "general",
+                "id": "opt036"
+            },
+            {
+                "type": "general",
+                "id": "opt039"
+            },
+            {
+                "type": "general",
+                "id": "opt021"
+            },
+            {
+                "type": "general",
+                "id": "opt035"
+            },
+            {
+                "type": "general",
+                "id": "opt034"
+            },
+            {
+                "type": "general",
+                "id": "opt033"
+            },
+            {
+                "type": "general",
+                "id": "opt004"
+            }
+        ],
+        "resource": [
+            {
+                "resourceRepresentation": [
+                    {
+                        "type": "thumbnail",
+                        "link": "https:\/\/museumsbilder.digicult-verbund.de\/thumbnail\/m5e202dbf393b7\/A.+Paul+Weber-Museum\/A.+Paul+Weber+Museum"
+                    },
+                    {
+                        "type": "preview_image",
+                        "link": "https:\/\/museumsbilder.digicult-verbund.de\/preview_image\/m5e202dbf393b7\/A.+Paul+Weber-Museum\/A.+Paul+Weber+Museum"
+                    },
+                    {
+                        "type": "provided_image",
+                        "link": "https:\/\/museumsbilder.digicult-verbund.de\/provided_image\/m5e202dbf393b7\/A.+Paul+Weber-Museum\/A.+Paul+Weber+Museum"
+                    }
+                ],
+                "type": "image",
+                "rightsHolder": "A. Paul Weber Museum",
+                "rightsType": "http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+                "photographer": "",
+                "title": "A. Paul Weber Museum",
+                "description": "",
+                "tag": ""
+            }
+        ],
+        "openingTimes": [
+            {
+                "week": {
+                    "tue": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    },
+                    "wen": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    },
+                    "thu": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    },
+                    "fri": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    },
+                    "sat": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    },
+                    "sun": {
+                        "first": {
+                            "timeStart": "T10:00:00",
+                            "timeEnd": "T13:00:00"
+                        },
+                        "second": {
+                            "timeStart": "T14:00:00",
+                            "timeEnd": "T17:00:00"
+                        }
+                    }
+                }
+            }
+        ],
+        "closedHolidays": [
+            {
+                "id": "sd0001",
+                "name": "Neujahr"
+            },
+            {
+                "id": "sd0016",
+                "name": "Heiligabend"
+            },
+            {
+                "id": "sd0017",
+                "name": "1. Weihnachtstag"
+            },
+            {
+                "id": "sd0018",
+                "name": "2. Weihnachtstag"
+            },
+            {
+                "id": "sd0019",
+                "name": "Silvester"
+            }
+        ],
+        "recordMetadataDate": {
+            "modified": "2020-05-29"
+        },
+        "recordRights": "http:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/"
+    }
+}
