@@ -1,30 +1,6 @@
-actions:
-- action_check_institution_attributes
-- action_get_institution
-- action_get_institution_by_name
-- utter_unsure
-- utter_anything_else
-- utter_ask_feedback
-- utter_ask_institution_category
-- utter_ask_institution_location
-- utter_ask_institution_name
-- utter_ask_institution_tag
-- utter_cheer_up
-- utter_goodbye
-- utter_greet
-- utter_happy
-- utter_iamabot
-- utter_introduction
-- utter_offer_tipp
-- utter_offer_another_tipp
-- utter_ask_reset
-entities:
-- institution
-- institution_category
-- institution_location
-- institution_name
-- institution_tag
-- offer
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
 intents:
 - inform_institution_tag
 - inform_institution_category
@@ -39,13 +15,35 @@ intents:
 - mood_unhappy
 - bot_challenge
 - out_of_scope
+entities:
+- institution
+- institution_category
+- institution_location
+- institution_name
+- institution_tag
+- offer
+slots:
+  institution:
+    type: text
+    auto_fill: false
+  institution_category:
+    type: text
+  institution_location:
+    type: text
+  institution_name:
+    type: text
+  institution_tag:
+    type: text
 responses:
   utter_anything_else:
   - text: Kann ich dir sonst noch helfen?
   - text: Gibt es noch etwas, wo ich helfen könnte?
+  - text: Kann ich sonst noch etwas für dich tun?
   utter_unsure:
-  - text: Hmh, ich bin mir nicht ganz sicher was du meinst. Magst du das noch einmal anders formulieren?
-  - text: Okay, ich bin mir nicht ganz sicher was du meinst. Wie wäre es mit einer anderen Formulierung? Vielleicht kann ich dir so weiterhelfen? :)
+  - text: Hmh, ich bin mir nicht ganz sicher was du meinst. Magst du das noch einmal
+      anders formulieren?
+  - text: Okay, ich bin mir nicht ganz sicher was du meinst. Wie wäre es mit einer
+      anderen Formulierung? Vielleicht kann ich dir so weiterhelfen? :)
   utter_sorry:
   - text: Ach schade, das tut mir Leid.
   - text: Sorry, ich würde dir gerne weiterhelfen.
@@ -82,7 +80,8 @@ responses:
   utter_happy:
   - text: Sehr gut!
   utter_iamabot:
-  - text: Ich bin ein Bot, der Methoden der künstlichen Intelligenz benutzt. Nicht mehr und auch nicht weniger.
+  - text: Ich bin ein Bot, der Methoden der künstlichen Intelligenz benutzt. Nicht
+      mehr und auch nicht weniger.
   utter_introduction:
   - text: Als dein virtueller Kulturassistent kann ich dich durch die Kultur in Schleswig-Holstein
       führen und dir Informationen über Institutionen liefern. Schnapp dir einen Tee
@@ -95,18 +94,24 @@ responses:
   - text: Soll ich nochmal nach Informationen suchen?
   utter_ask_reset:
   - text: Soll ich die alten Angaben, die du eben gemachst hast, zurücksetzen?
-session_config:
-  carry_over_slots_to_new_session: true
-  session_expiration_time: 60
-slots:
-  institution:
-    auto_fill: false
-    type: text
-  institution_category:
-    type: text
-  institution_location:
-    type: text
-  institution_name:
-    type: text
-  institution_tag:
-    type: text
+actions:
+- action_check_institution_attributes
+- action_get_institution
+- action_get_institution_by_name
+- utter_unsure
+- utter_anything_else
+- utter_ask_feedback
+- utter_ask_institution_category
+- utter_ask_institution_location
+- utter_ask_institution_name
+- utter_ask_institution_tag
+- utter_cheer_up
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_iamabot
+- utter_introduction
+- utter_offer_tipp
+- utter_offer_another_tipp
+- utter_ask_reset
+- utter_sorry

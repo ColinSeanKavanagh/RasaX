@@ -365,3 +365,61 @@
 * deny
   - utter_happy
   - utter_goodbye
+
+## New Story
+
+* inform_institution_tag{"institution_name":"Bunker-D","institution_tag":"Barrierefrei zugänglich"}
+    - slot{"institution_name":"Bunker-D"}
+    - slot{"institution_tag":"Barrierefrei zugänglich"}
+    - action_check_institution_attributes
+    - slot{"institution":{"id":"act0002152","name":"Bunker-D","place":"Kiel","street":"Schwentinestraße 11","pos":"10.179224 54.332743","teaser":"Freie Gedanken und Aktionen in festen Wänden.","icon":[{"type":"general","id":"opt002"},{"type":"general","id":"opt022"},{"type":"general","id":"opt004"},{"type":"general","id":"opt003"},{"type":"general","id":"opt036"}],"classification":[{"type":"kulturtyp","uri":"http://digicult.vocnet.org/portal/p0104"},{"type":"kulturtyp","uri":"http://digicult.vocnet.org/portal/p0102"},{"type":"tourismustyp","uri":"http://digicult.vocnet.org/portal/p0297"},{"type":"kulturtyp","uri":"http://digicult.vocnet.org/portal/p0270"},{"type":"tourismustyp","uri":"http://digicult.vocnet.org/portal/p0294"},{"type":"tourismustyp","uri":"http://digicult.vocnet.org/portal/p0296"}],"resource":{"resourceRepresentation":{"type":"image_thumbnail","link":"https://museumsbilder.digicult-verbund.de/thumbnail/m5b4cd21ea4c65/Bunker-D/Bunker-D"}}}}
+    - utter_ask_feedback
+* affirm
+    - utter_happy
+    - utter_anything_else
+* affirm
+    - utter_happy
+    - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+    - utter_introduction
+    - utter_offer_tipp
+* inform_offer{"offer":"Tipp"}
+    - utter_ask_institution_location
+* inform_institution_location{"institution_location":"Schleswig-Holstein"}
+    - slot{"institution_location":"Schleswig-Holstein"}
+    - utter_ask_institution_category
+* deny
+    - utter_ask_institution_tag
+* deny
+    - action_get_institution
+    - slot{"institution":{"id":"act001472","name":"Möllner Museen, Historisches Rathaus","nameAddition":"Möllner Museen","place":"Mölln","street":"Am Markt 12","ISIL":"DE-MUS-095612","pos":"10.691843843083 53.6305519","teaser":"Stadt- und Gewerbegeschichte","icon":[{"type":"general","id":"opt035"},{"type":"general","id":"opt003"},{"type":"general","id":"opt034"},{"type":"general","id":"opt039"},{"type":"general","id":"opt033"},{"type":"general","id":"opt036"},{"type":"general","id":"opt032"}],"classification":[{"type":"kulturtyp","uri":"http://digicult.vocnet.org/portal/p0090"},{"type":"kulturtyp","uri":"http://digicult.vocnet.org/portal/p-rmkt001"},{"type":"tourismustyp","uri":"http://digicult.vocnet.org/portal/p0297"}],"resource":{"resourceRepresentation":{"type":"image_thumbnail","link":"https://museumsbilder.digicult-verbund.de/thumbnail/m5e905d269ff9e/M%C3%B6llner+Museen%2C+Historisches+Rathaus/M%C3%B6llner+Museum+Au%C3%9Fenansicht"}}}}
+    - utter_ask_feedback
+* affirm
+    - utter_happy
+    - utter_anything_else
+    - utter_offer_another_tipp
+* affirm
+    - utter_ask_reset
+* affirm
+	- slot{"institution": "","institution_name":"","institution_location":"","institution_category":"","institution_tag":""}
+    - utter_ask_institution_location
+* inform_institution_category{"institution_location":"Flensburg"}
+    - slot{"institution_location":"Flensburg"}
+    - utter_ask_institution_tag
+* inform_institution_tag{"institution_tag":"Familienfreundlich"}
+    - slot{"institution_tag":"Familienfreundlich"}
+    - action_get_institution
+    - utter_ask_feedback
+* affirm
+    - utter_happy
+    - utter_anything_else
+    - utter_offer_another_tipp
+* deny
+    - utter_happy
+    - utter_goodbye
+* goodbye
+    - utter_goodbye

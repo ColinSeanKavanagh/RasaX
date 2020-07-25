@@ -157,8 +157,8 @@
 - In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
 - In [Lübeck](institution_location)
 - [Wedel](institution_location)[Wedel](institution_category)
-- [Flensburg](institution_location)
 - [Wedel](institution_location)
+- In [Schleswig-Holstein](institution_location)
 
 ## intent:inform_institution_category
 - Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
@@ -185,6 +185,8 @@
 - Einfach [draußen](institution_category)
 - Ja ich will in [Flensburg](institution_location) etwas anschauen
 - [Draußen](institution_category) in [Flensburg](institution_location)
+- [Flensburg](institution_location)
+- Museum
 
 ## intent:inform_institution_tag
 - [Kostenfrei](institution_tag)
@@ -206,7 +208,7 @@
 - [Gastronomie](institution_tag)
 - [Behinderten-WC](institution_tag)
 - [Familienfreundlich](institution_tag)
-- Für [Kinder](institution_tag)
+- Für [Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}
 - Wo man mit [Kindern](institution_tag) hingehen kann.
 - [familienfreundliches](institution_tag)
 - [Familie](institution_tag)
@@ -219,6 +221,7 @@
 - Wäre nicht schlecht wenn es [Familienfreundlich](institution_tag) wäre.
 - Wäre nicht schlecht wenn es [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} wäre.
 - [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
+- Ist der [Bunker-D](institution_name) [barrierefrei]{"entity": "institution_tag", "value": "Barrierefrei zug\u00e4nglich"}?
 
 ## intent:inform_offer
 - Ja, ich möchte einen [Tipp](offer).
@@ -230,6 +233,8 @@
 - Ich möchte [Informationen](offer) zu einer speziellen Institutionen.
 - Ich will [Infos](offer) über eine Institution.
 - Ich möchte gerne wissen, wo ich mit meiner [Familie](institution_category) hingehen kann.
+- Ja ich würde gerne einen [Tipp](offer) haben
+- Ich würde gerne Wissen ob man beim [Bunker-D](institution_name) [parken]{"entity": "institution_tag", "value": "Parkplatz"} kann.
 
 ## intent:inform_institution_name
 - [Bunker-D](institution_name)
@@ -303,6 +308,7 @@
 - Ja
 - Ein bisschen
 - cool
+- Ja ein bisschen
 
 ## intent:deny
 - nein
@@ -334,6 +340,11 @@
 - Nein
 - NEIN
 - Nee
+- Ne
+- Egal
+- Nein danke, sehr freundlich
+- Ich bin bedient
+- Nein, danke
 
 ## intent:mood_unhappy
 - Traurig
