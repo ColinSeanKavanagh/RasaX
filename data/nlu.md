@@ -155,6 +155,7 @@
 - In [Lütau](institution_location).
 - In [Kiel](institution_location)
 - In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
+- In [Lübeck](institution_location)
 
 ## intent:inform_institution_category
 - Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
@@ -173,6 +174,9 @@
 - Was gibt es so an [Ausstellungen](institution_category)?
 - Ich fände es gut wenn es ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} wäre
 - Sie soll vielleicht mit etwas [literarischem]{"entity": "institution_category", "value": "Literatur"} zu tun haben
+- [Draußen](institution_category)
+- [Museum]{"entity": "institution_name", "value": "Museum & Ausstellung"}
+- Ich [suche](offer) ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"}[Museum ](institution_category)in [Kiel](institution_location) für meine [Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}[Kinder](institution_category)
 
 ## intent:inform_institution_tag
 - [Kostenfrei](institution_tag)
@@ -206,6 +210,7 @@
 - [Angebot auf Dänisch](institution_tag)
 - Wäre nicht schlecht wenn es [Familienfreundlich](institution_tag) wäre.
 - Wäre nicht schlecht wenn es [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} wäre.
+- [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
 
 ## intent:inform_offer
 - Ja, ich möchte einen [Tipp](offer).
@@ -535,6 +540,7 @@
 - Guten Morgen
 - Heyho
 - Hi
+- Moin
 
 ## intent:goodbye
 - Bye!
@@ -588,6 +594,7 @@
 - Unglaublich
 - Wundervoll
 - Alles gut
+- Ja
 
 ## intent:deny
 - nein
@@ -617,16 +624,6 @@
 - negativ
 - nope
 - Nein
-
-<!-- ## intent:mood_great
-- Perfekt
-- Sehr gut
-- Richtig gut
-- Unglaublich
-- Wundervoll
-- Ich fuehle mich sehr gut
-- Ich fuehle mich gut
-- Alles gut -->
 
 ## intent:mood_unhappy
 - Traurig
@@ -695,6 +692,7 @@
 - Ausstellung
 - Museen
 - Ausstellungen
+- Museum 
 
 ## synonym:Neustadt/Holstein
 - Neustadt
