@@ -156,6 +156,7 @@
 - In [Kiel](institution_location)
 - In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
 - In [Lübeck](institution_location)
+- [Wedel](institution_location)[Wedel](institution_category)
 
 ## intent:inform_institution_category
 - Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
@@ -175,8 +176,13 @@
 - Ich fände es gut wenn es ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} wäre
 - Sie soll vielleicht mit etwas [literarischem]{"entity": "institution_category", "value": "Literatur"} zu tun haben
 - [Draußen](institution_category)
-- [Museum]{"entity": "institution_name", "value": "Museum & Ausstellung"}
+- [Museum](institution_category)[Museum]{"entity": "institution_name", "value": "Museum & Ausstellung"}
 - Ich [suche](offer) ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"}[Museum ](institution_category)in [Kiel](institution_location) für meine [Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}[Kinder](institution_category)
+- Ich [suche](offer) ein [Museum ](institution_category)[Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} in [Kiel](institution_location) für meine [Kinder](institution_category)[Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}[Kinder](institution_category)
+- Ich [suche](offer) etwas in [Kiel](institution_location) dass [Draußen](institution_category) und [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}[familienfreundlich ](institution_category)ist
+- Einfach [draußen](institution_category)
+- Ja ich will in [Flensburg](institution_location) etwas anschauen
+- [Draußen](institution_category) in [Flensburg](institution_location)
 
 ## intent:inform_institution_tag
 - [Kostenfrei](institution_tag)
@@ -210,6 +216,7 @@
 - [Angebot auf Dänisch](institution_tag)
 - Wäre nicht schlecht wenn es [Familienfreundlich](institution_tag) wäre.
 - Wäre nicht schlecht wenn es [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} wäre.
+- [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
 - [familienfreundlich](institution_category)[familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}
 
 ## intent:inform_offer
@@ -475,61 +482,9 @@
 - [Schleswig-Holsteinisches Landwirtschaftsmuseum](institution_name)
 - [Schleswiger Speeldeel](institution_name)
 - [Schleusenmuseum Holtenau, Maritimes Viertel](institution_name)
-- [Schloss Reinbek](institution_name)
-- [Schloss vor Husum](institution_name)
-- [Schmiedemuseum](institution_name)
-- [Schoolkat Langwedel](institution_name)
-- [Schulhausmuseum](institution_name)
-- [Schutzstation Wattenmeer](institution_name)
-- [Sea Life Timmendorfer Strand](institution_name)
-- [Seehundstation Friedrichskoog e.V.](institution_name)
-- [Skulpturenpark Nortorf](institution_name)
-- [Sparkassenstiftung Schleswig-Holstein](institution_name)
-- [Speicher Husum](institution_name)
-- [St. Petri zu Lübeck](institution_name)
-- [Stadtarchiv Rendsburg](institution_name)
-- [Stadtarchiv Wedel](institution_name)
-- [Stadtgalerie im Elbeforum Brunsbüttel](institution_name)
-- [Stadtgalerie Kiel](institution_name)
-- [Stadtmuseum Norderstedt](institution_name)
-- [Stadtmuseum Schleswig](institution_name)
-- [Stadtmuseum Wedel](institution_name)
-- [statt-Theater Neumünster](institution_name)
-- [Stiftung Landdrostei](institution_name)
-- [Stiftung Schloss Ahrensburg](institution_name)
-- [Stiftung Schloss Eutin](institution_name)
-- [Stiftung Schloss Glücksburg](institution_name)
-- [Stormarnsches Dorfmuseum](institution_name)
-- [Studio Filmtheater](institution_name)
-- [Sylt Museum](institution_name)
-- [Theater am Tremser Teich](institution_name)
-- [Theater Combinale](institution_name)
-- [Theater in der Stadthalle](institution_name)
-- [theater itzehoe](institution_name)
 - [Theater Kiel - Opernhaus](institution_name)
 - [Theater Kiel - Schauspielhaus](institution_name)
-- [Theater Lübeck](institution_name)
-- [TheaterFigurenMuseum Lübeck](institution_name)
-- [Theaterschiff Batavia](institution_name)
-- [Theaterschiff Lübeck](institution_name)
-- [Theodor-Mommsen-Gedächtnisstätte](institution_name)
-- [Theodor-Storm-Museum](institution_name)
-- [Tischlereimuseum Friedrichstadt](institution_name)
-- [Tor zur Urzeit](institution_name)
-- [Übersee Museum - Aussenstelle Galileo Wissenswelt](institution_name)
-- [Viermastbark Passat](institution_name)
-- [Volksbad Flensburg](institution_name)
-- [Volkskundliches Museum Mölln Hof](institution_name)
-- [Weihnachtshaus](institution_name)
-- [Wenzel-Hablik-Museum](institution_name)
-- [Werner Weckwerth Museum](institution_name)
-- [Wikinger Museum Haithabu](institution_name)
-- [Wildpark Eekholt Naturerlebnisstätte](institution_name)
-- [Willy-Brandt-Haus Lübeck](institution_name)
-- [Windmühle Amanda](institution_name)
-- [zeiTTor – Museum der Stadt Neustadt in Holstein](institution_name)
-- [Zoologisches Museum der Christian-Albrechts-Universität zu Kiel](institution_name)
-- [Zugpferdemuseum e.V-](institution_name)
+- [Flensburg](institution_location)
 
 ## intent:greet
 - hey
@@ -541,6 +496,8 @@
 - Heyho
 - Hi
 - Moin
+- Hey
+- Hi in ko
 
 ## intent:goodbye
 - Bye!
@@ -548,6 +505,7 @@
 - Bis dann!
 - Bis spaeter!
 - Tschüssikowski!
+- Tschau
 
 ## intent:affirm
 - ja
@@ -595,6 +553,8 @@
 - Wundervoll
 - Alles gut
 - Ja
+- Ein bisschen
+- cool
 
 ## intent:deny
 - nein
@@ -624,6 +584,8 @@
 - negativ
 - nope
 - Nein
+- NEIN
+- Nee
 
 ## intent:mood_unhappy
 - Traurig
@@ -639,6 +601,7 @@
 - Kacke
 - Vollidiot
 - Mist
+- ey
 
 ## intent:bot_challenge
 - bist du ein bot?
@@ -651,6 +614,8 @@
 - Mach das Licht an!
 - Mach das Licht aus!
 - Kannst du mir etwas zu essen besorgen?
+- Auf dem Mond
+- Nirgendwo
 
 ## synonym:Barrierefrei zugänglich
 - Barrierefrei
@@ -665,11 +630,12 @@
 - Sonnenschein
 
 ## synonym:Familienfreundlich
-- familienfreundlich
 - Kinder
+- familienfreundlich
 - Kindern
 - Familie
 - familienfreundliches
+- familienfreundlich 
 
 ## synonym:Informationen
 - Infos
