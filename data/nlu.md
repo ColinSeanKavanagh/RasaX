@@ -154,11 +154,10 @@
 - In [Neustadt/Holstein](institution_location).
 - In [Lütau](institution_location).
 - In [Kiel](institution_location)
-- In [lübeck]{"entity": "institution_location", "value": "L\u00fcbeck"}
+- In [lübeck]{"entity": "institution_location", "value": "Lübeck"}
 - In [Lübeck](institution_location)
-- [Wedel](institution_location)[Wedel](institution_category)
 - [Wedel](institution_location)
-- In [Schleswig-Holstein](institution_location)
+- In [Schleswig-Holstein]{"entity": "institution_location", "value":""}
 
 ## intent:inform_institution_category
 - Ich möchte etwas zum anschauen, mit einer [Bühne](institution_category).
@@ -178,15 +177,15 @@
 - Ich fände es gut wenn es ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} wäre
 - Sie soll vielleicht mit etwas [literarischem]{"entity": "institution_category", "value": "Literatur"} zu tun haben
 - [Draußen](institution_category)
-- [Museum](institution_category)[Museum]{"entity": "institution_name", "value": "Museum & Ausstellung"}
-- Ich [suche](offer) ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"}[Museum ](institution_category)in [Kiel](institution_location) für meine [Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}[Kinder](institution_category)
-- Ich [suche](offer) ein [Museum ](institution_category)[Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} in [Kiel](institution_location) für meine [Kinder](institution_category)[Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}[Kinder](institution_category)
-- Ich [suche](offer) etwas in [Kiel](institution_location) dass [Draußen](institution_category) und [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"}[familienfreundlich ](institution_category)ist
+- [Museum](institution_category){"entity": "institution_name", "value": "Museum & Ausstellung"}
+- Ich [suche](offer) ein [Museum]{"entity": "institution_category", "value": "Museum & Ausstellung"} in [Kiel](institution_location) für meine [Kinder]{"entity": "institution_tag", "value": "Familienfreundlich"}
+- Ich [suche](offer) etwas in [Kiel](institution_location) dass [Draußen](institution_category) und [familienfreundlich]{"entity": "institution_tag", "value": "Familienfreundlich"} ist
 - Einfach [draußen](institution_category)
 - Ja ich will in [Flensburg](institution_location) etwas anschauen
 - [Draußen](institution_category) in [Flensburg](institution_location)
 - [Flensburg](institution_location)
-- Museum
+- [Museum](institution_category)
+- Ich will meinen [Hund]{"entity":"institution_category", "value":"Draußen"} mitnehmen
 
 ## intent:inform_institution_tag
 - [Kostenfrei](institution_tag)
